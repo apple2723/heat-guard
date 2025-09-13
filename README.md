@@ -24,4 +24,3 @@ streamlit run app.py
 - Uses OpenWeather One Call API (imperial units) for hourly forecast.
 - If UVI >= 8, adds a small +3°F "sun exposure" bump to guidance-only HI.
 - All logic & UI are 100% Python
->>>>>>> e096c24 (Initial commit of base project)
