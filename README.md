@@ -17,6 +17,7 @@ HeatGuard is a Python-based web app that helps outdoor workers and students stay
 python -m venv .venv && source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
 export OPENWEATHER_KEY=YOUR_KEY   # Windows: set OPENWEATHER_KEY=YOUR_KEY
+You can get a free key at [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys)
 streamlit run app.py
 ```
 
