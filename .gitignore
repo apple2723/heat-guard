@@ -1,0 +1,11 @@
+# Ignore API keys
+.env
+
+# Python environment + cache
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit local state
+.streamlit/
