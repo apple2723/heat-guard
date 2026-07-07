@@ -1,8 +1,8 @@
 # HeatGuard
 
-HeatGuard is a Python-based web app that helps outdoor workers and students stay safe during extreme heat by turning real-time weather data into personalized safety plans — including heat risk scores, safe outdoor time windows, and role-based hydration + rest schedules.
+HeatGuard is a Python-based web app that helps outdoor workers and students stay safe during extreme heat by turning real-time weather data into personalized safety plans. It includes heat risk scores, safe outdoor time windows, and role-based hydration + rest schedules.
 
-**Hyperlocal heat-risk coach** for outdoor workers & students — built **entirely in Python** using **Streamlit**.
+**Hyperlocal heat-risk coach** for outdoor workers & students built **entirely in Python** using **Streamlit**.
 
 ## Features
 - Next-24h **heat index** & **risk** (Low/Moderate/High/Extreme)
